@@ -8,9 +8,7 @@ const Home = () => {
         <a href="https://slickcoin.netlify.app">Slick HOMEPAGE</a>
       </Heading>
       <Heading size="md" marginBottom={6}>
-        <a href="https://widget.onramper.com?color=1d2d50" target="_blank">
-          Buy cryptocurrencies
-        </a>
+        <a href="https://widget.onramper.com?color=1d2d50">Buy cryptocurrencies</a>
       </Heading>
       <Heading size="md" marginBottom={6}>
         Ethereum Boilerplate
