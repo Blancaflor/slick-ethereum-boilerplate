@@ -5,6 +5,9 @@ const Home = () => {
   return (
     <VStack w={'full'}>
       <Heading size="md" marginBottom={6}>
+        <a href="https://slickcoin.netlify.app">Slick HOME</a>
+      </Heading>
+      <Heading size="md" marginBottom={6}>
         Ethereum Boilerplate
       </Heading>
       <List spacing={3}>
