@@ -10,11 +10,8 @@ const Home = () => {
       <Heading size="md" marginBottom={6}>
         <a href="https://widget.onramper.com?color=1d2d50">Buy cryptocurrencies</a>
       </Heading>
-      <Heading size="md" marginBottom={6}>
-        Ethereum Boilerplate
-      </Heading>
       <List spacing={3}>
-        <ListItem>
+        <ListItem marginTop={90}>
           <ListIcon as={CheckCircleIcon} color="green.500" />
           Moralis authentication
         </ListItem>
