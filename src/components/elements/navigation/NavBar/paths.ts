@@ -2,7 +2,6 @@ import { ISubNav } from '../SubNav/SubNav';
 
 const NAV_LINKS: ISubNav[] = [
   { label: 'Home', href: '/' },
-  { label: 'Home2', href: 'https://slickcoin.netlify.app' },
   {
     label: 'Transactions',
     href: '/transactions',
